@@ -17,3 +17,4 @@ Visualization Optimization: Designed and optimized visualizations to fit within 
 
 
 Power BI: https://app.powerbi.com/links/NtRrmuayXm?ctid=0bc92751-071a-4e2c-a48b-633206fef374&pbi_source=linkShare
+Excel Analysis and DashBoard: https://docs.google.com/spreadsheets/d/1PTrkY4CBP-WCHm5MwlLmY0kG7Pms1vSg/edit?usp=sharing&ouid=100074107092608733101&rtpof=true&sd=true
