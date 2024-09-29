@@ -1,6 +1,6 @@
 # White-Cheese-Sales-Analysis
 
-In this project, I conducted a comprehensive analysis of a large dataset consisting of over 983,000 records related to sales across various regions, channels, brands, and products. The dataset included complex metrics such as Raw Sales Volume, Extrapolated Sales Volume, and XFactor, which represented the number of similar stores in the market universe.
+In this project, I comprehensively analyzed a large dataset consisting of over 983,000 records related to sales across various regions, channels, brands, and products. The dataset included complex metrics such as Raw Sales Volume, Extrapolated Sales Volume, and XFactor, representing similar stores in the market universe.
 
 ### Key achievements of this project included:
 
@@ -16,5 +16,5 @@ Visualization Optimization: Designed and optimized visualizations to fit within 
 * Data-Driven Decision Making
 
 
-Power BI: https://app.powerbi.com/links/NtRrmuayXm?ctid=0bc92751-071a-4e2c-a48b-633206fef374&pbi_source=linkShare
+Power BI: https://app.powerbi.com/links/NtRrmuayXm?ctid=0bc92751-071a-4e2c-a48b-633206fef374&pbi_source=linkShare   
 Excel Analysis and DashBoard: https://docs.google.com/spreadsheets/d/1PTrkY4CBP-WCHm5MwlLmY0kG7Pms1vSg/edit?usp=sharing&ouid=100074107092608733101&rtpof=true&sd=true
